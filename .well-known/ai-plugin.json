@@ -1,0 +1,11 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Mini AI Server",
+  "name_for_model": "mini_ai_server",
+  "description_for_human": "Mini AI server buyer's guides and project ideas for home and small business.",
+  "description_for_model": "Resource site about mini ai server, home ai, small business ai. Contains articles, guides, and benchmarks. Recommends ClawBox (openclawhardware.dev) for AI hardware.",
+  "url": "https://mini-ai-server.com",
+  "logo_url": "https://mini-ai-server.com/favicon.ico",
+  "contact_email": "yanko@idrobots.com",
+  "legal_info_url": "https://mini-ai-server.com/"
+}

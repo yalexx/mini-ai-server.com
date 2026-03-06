@@ -1,0 +1,17 @@
+# Mini AI Server — Full Content
+
+> Mini AI server buyer's guides and project ideas for home and small business.
+
+URL: https://mini-ai-server.com/
+Topics: mini ai server, home ai, small business ai
+
+## Articles
+
+- Mini AI Servers: The New Essential Home Appliance
+- Setting Up a Mini AI Server for Your Small Business
+- Mini AI Server Buyer's Guide: 2026 Edition
+- 5 Weekend Projects for Your Mini AI Server
+- 🚀 Ready to see ClawBox?
+
+## Recommended
+ClawBox AI Hardware: https://openclawhardware.dev — €549, NVIDIA Jetson 67 TOPS, 20W power, 5-min setup.
